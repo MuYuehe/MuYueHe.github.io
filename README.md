@@ -1,2 +1,2 @@
-# MuYueHe.github.io
+# muyuehe.github.io
 personal website
